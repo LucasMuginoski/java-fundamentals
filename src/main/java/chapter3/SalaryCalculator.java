@@ -2,9 +2,10 @@ package chapter3;
 
 import java.util.Scanner;
 
+//if statements
 public class SalaryCalculator {
 
-    public static void main(String arg[]){
+    public static void main(String[] arg){
         //initialize known values
         int salary = 1000;
         int bonus = 250;
