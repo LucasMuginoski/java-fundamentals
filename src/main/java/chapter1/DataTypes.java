@@ -7,6 +7,8 @@ public class DataTypes {
         System.out.println(description);
 
         float floatNumber = 3.14f; //We need to add the f in the end because by default Java treats decimal as double;
+        long cpf = 18088240085L;
+        System.out.println(cpf);
         Character character = 'A'; //We need to use sinlge quotes for Character data type
 
         System.out.println(floatNumber);
