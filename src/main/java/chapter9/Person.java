@@ -5,6 +5,10 @@ public class Person {
     private int age;
     private String gender;
 
+    public Person(){
+
+    }
+
     public String getName() {
         return name;
     }
